@@ -21,7 +21,11 @@ $colors: (
 
 //
 $toolbar-md-background: color($colors, customyellow);
+$toolbar-ios-background: color($colors, customyellow);
 
+//FAB
+$fab-md-background-color: color($colors, dark);
+$fab-ios-background-color: color($colors, dark);
 @import "ionic.theme.default";
 
 
